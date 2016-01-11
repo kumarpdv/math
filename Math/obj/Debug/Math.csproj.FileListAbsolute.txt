@@ -1,0 +1,4 @@
+c:\users\varakumarp\documents\visual studio 2010\Projects\Math\Math\bin\Debug\Math.dll
+c:\users\varakumarp\documents\visual studio 2010\Projects\Math\Math\bin\Debug\Math.pdb
+c:\users\varakumarp\documents\visual studio 2010\Projects\Math\Math\obj\Debug\Math.dll
+c:\users\varakumarp\documents\visual studio 2010\Projects\Math\Math\obj\Debug\Math.pdb
